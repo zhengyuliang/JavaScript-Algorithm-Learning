@@ -4,6 +4,8 @@
 
 JavaScript code[ES2015] for some classical algorithm
 
+javaScript 算法例子，必须掌握
+
 ### Start
 
 ``` bash
